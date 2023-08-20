@@ -68,3 +68,72 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Wine Data Set Statistics
+
+This project calculates and displays statistical measures for the Wine Data Set using React. It includes functionality to calculate class-wise mean, median, and mode for both the "Flavanoids" and "Gamma" properties of the dataset.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+
+2. Install Dependencies:
+	
+	Yarn install
+
+3. Run the application:
+
+	Yarn Start
+
+4. Open your browser and navigate to http://localhost:3000 to see the calculated statistics.
+
+
+ABOUT TASK
+
+Components
+
+WineStatistics
+
+The WineStatistics component fetches the wine data and calculates class-wise statistics for both "Flavanoids" and "Gamma" properties. It displays the statistics in tables.
+
+calculateStatistics(property): Calculates class-wise statistics for the specified property ("Flavanoids" or "Gamma").
+
+calculateMean(data): Calculates the mean value of an array of data.
+
+calculateMedian(data): Calculates the median value of an array of data.
+
+calculateMode(data): Calculates the mode value of an array of data.
+
+renderTable(property): Renders a table displaying the calculated statistics for the specified property.
+
+Styling
+
+The tables are styled using CSS to provide a clean and organized appearance.
+
+Data Source
+
+The wine dataset is provided in the myoutput.js file, containing the required properties for calculations.
+
+Libraries Used
+
+React: Used for building the user interface components.
+
+Papaparse: Used to parse CSV data into JavaScript objects.
+
+Folder Structure
+
+src: Contains React components and data files.
+
+public: Contains the HTML file and data files.
+
+Author
+Washim Akram
+
+
+
+
