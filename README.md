@@ -137,7 +137,7 @@ Washim Akram
 
 Screenshots of the both table
 
-![Tables](https://github.com/washim09/mynewtask/assets/71549206/46dce5c8-e3e5-4ae3-bf31-30c6de4b44df)
+![Tables](myimage/D:\Reactjs\mynewtask\src\myimage\Tables.PNG)
 
 
 
