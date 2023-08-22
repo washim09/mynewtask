@@ -137,7 +137,7 @@ Washim Akram
 
 Screenshots of the both table
 
-![Tables](myimage/D:\Reactjs\mynewtask\src\myimage\Tables.PNG)
+![Tables](myimage/Tables.PNG)
 
 
 
