@@ -137,7 +137,7 @@ Washim Akram
 
 Screenshots of the both table
 
-![Tables](myimage\Tables.png)
+![Tables](src/myimage/Tables.PNG)
 
 
 
